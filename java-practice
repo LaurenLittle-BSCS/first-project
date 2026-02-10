@@ -1,3 +1,10 @@
+src/
+src/basics/
+src/loops/
+src/conditionals/
+src/arrays/
+src/oop/
+src/basics/README.md
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, GitHub!");
